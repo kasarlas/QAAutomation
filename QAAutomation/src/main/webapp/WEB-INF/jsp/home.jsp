@@ -7,15 +7,21 @@
 		<link rel="stylesheet" type="text/css" href="/css/home.css"/>
 		<title>QA Automation</title>
 	</head>
+	<img id="Arvest" src="/img/Arvest_Bank_logo.png" style="width:100px"><br/>
 	<body>
 		<span id="welcome" class="container">QA Automation! <br/>
+		
 			<img id="QA Automation Image!" src="/img/QA Auto.png" style="width:200px"><br/>
 			<span id= "answer">
-					Welcome to Arvest QA Automation Page!
+			
+				Problem Statement: I would like to automate XM application
+			</span><br/>
+			<span id= "answer">
+			
+				Proposed Solution: Using Selenium with Java will automate the application
 			</span>
-		</span>
-		<img id="Arvest" src="/img/Arvest_Bank_logo.png" style="width:100px"><br/>
-</body>
+
+		</body>
 </html>
 
 <%--http://localhost:8181/home--%>
