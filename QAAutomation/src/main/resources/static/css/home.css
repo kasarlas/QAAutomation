@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+
+body{
+	
+	background-color:#0080ff
+}
+
+#welcome{
+	
+	text-align: center;
+	font-size: 80px;
+	fonr-family Blippo, fantasy;
+	color: #a60d0d;
+	
+}
+
+#answer{
+	font-size: 30px;
+	color: #ffffff;
+}
+
+.container{
+	position: absolute;
+	top: 20%;
+	left:20%
+	transform: translate(-50%, -50%);
+	
+}
+
+#Arvest
+{
+position: absolute;
+    top: 0px;
+    right: 0px;
+}
