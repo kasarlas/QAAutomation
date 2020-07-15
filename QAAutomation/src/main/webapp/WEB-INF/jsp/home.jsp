@@ -11,16 +11,20 @@
 	<body>
 		<span id="welcome" class="container">QA Automation! <br/>
 		
-			<img id="QA Automation Image!" src="/img/QA Auto.png" style="width:200px"><br/>
+			<img id="QA Automation Image!" src="/img/QA Auto.png" class="center" style="width:200px"><br/>
 			<span id= "answer">
 			
-				Problem Statement: I would like to automate XM application
+				Problem Statement: QA has to run more test cases for XM application.
+			<br/>
+			<span id= "answer">
+				Proposed Solution: Automate using Selenium with Java.
 			</span><br/>
 			<span id= "answer">
-			
-				Proposed Solution: Using Selenium with Java will automate the application
+				Key Components: Selenium, WebDriver, Java, Eclipse.
+			</span><br/>
+			<span id= "answer">
+				SME's: Lk, Mic.
 			</span>
-
 		</body>
 </html>
 
