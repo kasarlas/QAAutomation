@@ -24,7 +24,7 @@
 			</span>
 			
 			<span id= "Stack">
-				<span class="bold"><u>Key Components:</u></span> <br/>Java <br/>Spring boot<br/>Java Script<br/> <br/>HTML<br/><br/>Selenium<br/>CSS<br/>Selenium<br/>WebDriver<br/>Eclipse<br/>GitHub<br/>Mongo DB<br/>
+				<span class="bold"><u>Key Components:</u></span> <br/>Java <br/>Spring boot<br/>Java Script<br/>HTML<br/>Selenium<br/>CSS<br/>Selenium<br/>WebDriver<br/>Eclipse<br/>GitHub<br/>Mongo DB<br/>
 			</span>
 			
 			<span id= "button_span">
